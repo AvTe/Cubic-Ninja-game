@@ -2,6 +2,8 @@
 
 Welcome to Cubic Ninja Game, an exciting web-based game created using HTML, CSS, and JavaScript! Test your skills as a ninja and see how high you can score by slicing and dicing cubes as they descend.
 
+Demo - https://cubicninja.netlify.app/
+
 ## How to Play
 
 1. **Objective**: Cut as many descending cubes as possible to achieve the highest score.
